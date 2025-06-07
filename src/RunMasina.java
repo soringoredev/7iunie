@@ -20,6 +20,11 @@ public class RunMasina {
 
         masina2.accelereaza();
         masina2.franeaza();
+        masina2.franeaza();
+        masina2.franeaza();
+        masina2.franeaza();
+        masina2.franeaza();
+        masina2.franeaza();
 
     }
 }
